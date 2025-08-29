@@ -2,8 +2,10 @@
 
 This organization carries forward the early records and visions of the **MythOS (Mythic Operating System)**. What is preserved here are **artifacts of lineage** — documents, diagrams, and specifications that demonstrate the longstanding intent and development of MythOS. These materials have roots in earlier explorations, with formal documentation preserved here from **2018–2022**.  
 
-> **MythOS**, rooted in these early records **(2018–2022)**, has since been in continuous active development **(2022–present)** under **Mythic Systems LLC**.  
-> The public entryway to MythOS is the [MythOS-Portal](https://github.com/MythicSystems/MythOS-Portal).
+## Active Development
+
+**MythOS**, rooted in these early records **(2018–2022)**, has since been in continuous active development **(2022–present)** under **Mythic Systems LLC**.  
+The public entryway is **[MythOS-Portal](https://github.com/MythicSystems/MythOS-Portal)**.
 
 ---
 
